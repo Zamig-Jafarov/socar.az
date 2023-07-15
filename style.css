@@ -397,7 +397,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(mobz.png);
+        background-image: url(media img.png);
     }
     .header-text{
         margin-top: 100%;
